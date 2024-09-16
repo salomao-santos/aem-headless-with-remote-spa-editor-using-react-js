@@ -2,7 +2,7 @@
 
 EN: Create Project Backend AEM (Adobe Experience Manager)
 
-| Steps | Documentation | Pull Request |
+| Step | Documentation | Pull Request |
 | ----- | --------------| -----------  | 
 | 1 | [Create an AEM project](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/remote-spa/aem-configure#create-an-aem-project) | [Create an project AEM using module frontend React js](https://github.com/salomao-santos/aem-headless-with-remote-spa-editor-using-react-js/pull/1) | 
 | 2 | [Remove ui.frontend project](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/remote-spa/aem-configure#remove-uifrontend-project) | [Comment ui.frontend project  ](https://github.com/salomao-santos/aem-headless-with-remote-spa-editor-using-react-js/pull/2), [  Remove ui.frontend code](https://github.com/salomao-santos/aem-headless-with-remote-spa-editor-using-react-js/pull/3)|
